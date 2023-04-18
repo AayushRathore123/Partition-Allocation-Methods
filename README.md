@@ -30,23 +30,26 @@ the block number to the "temp" array.
 
 # Snapshots
 
-![image](https://user-images.githubusercontent.com/110801658/232817714-afdc8ac9-0a19-43ad-a4af-e737ba09d27f.png)
+<img src="https://user-images.githubusercontent.com/110801658/232817714-afdc8ac9-0a19-43ad-a4af-e737ba09d27f.png" height=500px>
 
 ●	If 1 is pressed for First fit
  
- ![image](https://user-images.githubusercontent.com/110801658/232817741-a114a25a-b5e8-4b83-9e50-ea1d565cdcc0.png)
+ <img src="https://user-images.githubusercontent.com/110801658/232817741-a114a25a-b5e8-4b83-9e50-ea1d565cdcc0.png" height=300px>
 
 
 •	If 2 is pressed for Best fit
  
- ![image](https://user-images.githubusercontent.com/110801658/232817790-92cf1fc2-a8c3-460e-a804-2f95c3c75b24.png)
+  <img src="https://user-images.githubusercontent.com/110801658/232817790-92cf1fc2-a8c3-460e-a804-2f95c3c75b24.png" height=300px>
 
- 
+
 •	If 3 is pressed for Worst fit
 
-![image](https://user-images.githubusercontent.com/110801658/232818112-fa2653cb-d662-4b0e-9ad5-f9b82682a5cf.png)
+<img src="https://user-images.githubusercontent.com/110801658/232819104-5f30290e-b250-4aa0-80ac-c8ec674db093.png" height=300px>
+
+
 ●	Program terminates if 0 is pressed.
 
- ![image](https://user-images.githubusercontent.com/110801658/232817848-6c4b8915-1be2-4037-86f9-21b5cc5e0dfe.png)
+<img src="https://user-images.githubusercontent.com/110801658/232821910-e7985c8e-ce56-44c1-9190-5c83b078ab8f.png" height=300px>
+
 
 
